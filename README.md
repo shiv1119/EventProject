@@ -17,7 +17,7 @@
 2)Register
 3)Logout
 4)Navbar
-##Looking forward to add more functionality
+## Looking forward to add more functionality
 ### Backend
 1)Search
 2)Update events
