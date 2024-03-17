@@ -1,0 +1,6 @@
+Python==3.11.7
+mysqlclient==2.2.4
+django==5.0.3
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+Pillow==10.2.0
