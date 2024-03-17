@@ -52,7 +52,7 @@ const Register = ({ register, isAuthenticated }) => {
           <label className='form-label'>Password: </label>
           <input
             className='form-control'
-            type='text'
+            type='password'
             placeholder='password'
             name='password'
             onChange={e => onChange(e)}
@@ -65,7 +65,7 @@ const Register = ({ register, isAuthenticated }) => {
           <label className='form-label'>Confirm Password: </label>
           <input
             className='form-control'
-            type='text'
+            type='password'
             placeholder='re_password'
             name='re_password'
             onChange={e => onChange(e)}

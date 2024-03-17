@@ -32,7 +32,7 @@ const Login = ({ login, isAuthenticated }) => {
           <label className='form-label'>Username: </label>
           <input
             className='form-control'
-            type='text'
+            type='password'
             placeholder='username'
             name='username'
             onChange={e => onChange(e)}
@@ -44,7 +44,7 @@ const Login = ({ login, isAuthenticated }) => {
           <label className='form-label'>Password: </label>
           <input
             className='form-control'
-            type='text'
+            type='password'
             placeholder='password'
             name='password'
             onChange={e => onChange(e)}
